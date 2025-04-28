@@ -2,6 +2,6 @@ Greetings
 
 #About Me:
 
-<br> 📈Business student that also likes computers. <br\>
-<br> 💻Self-developing a background in software engineering. <br\>
-<br> Open to any collaboration. <br\>
+📈Business student that also likes computers. <br\>
+💻Self-developing a background in software engineering. <br\>
+Open to any collaboration. <br\>
