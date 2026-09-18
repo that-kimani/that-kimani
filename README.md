@@ -1,10 +1,14 @@
 
-### Welcome:
-A business student learning how to code. <br> Enjoy
+<p align="center">
+  ### Wayne Kimani <br>
+  Finance Major / Software Developer
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wayne-kimani/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:that.kimani@gmail.com) 
+<p align="center">
+    [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wayne-kimani/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:that.kimani@gmail.com) 
+</p>
 
-### 💻 Tech Stack:
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,react,redis,ts,vite,vue,py,postgres,fastapi,django,git,docker,figma" />
