@@ -1,12 +1,13 @@
 
 <p align="center"> 
-  <h1 align="center"> Wayne Kimani </h1> <br>
-  <h3 align="center"> Finance Major / Software Developer </h3>
+  <h1 align="center"> Wayne Kimani </h1>
+  <h5 align="center"> Finance Major / Software Developer </h5>
 </p>
 
-<p align="center">
-    [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wayne-kimani/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:that.kimani@gmail.com) 
-</p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wayne-kimani/) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:that.kimani@gmail.com) 
+
 
 
 <p align="center">
