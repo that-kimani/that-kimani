@@ -1,7 +1,9 @@
 
-<p align="center">
-  ### Wayne Kimani <br>
-  Finance Major / Software Developer
+<p align="center"> 
+  
+  <h1> Wayne Kimani </h1> <br>
+  <h3> Finance Major / Software Developer <h3>
+    
 </p>
 
 <p align="center">
