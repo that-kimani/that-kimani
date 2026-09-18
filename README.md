@@ -1,9 +1,7 @@
 
 <p align="center"> 
-  
-  <h1> Wayne Kimani </h1> <br>
-  <h3> Finance Major / Software Developer <h3>
-    
+  <h1 align="center"> Wayne Kimani </h1> <br>
+  <h3 align="center"> Finance Major / Software Developer </h3>
 </p>
 
 <p align="center">
