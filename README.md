@@ -22,6 +22,6 @@
 
 <div align="center">
   <p>
-    <img width="800" src="https://raw.githubusercontent.com/meth04/meth04/main/assets/github-snake.svg" alt="snake"/>
+    <img width="800" src="https://raw.githubusercontent.com/that-kimani/portfolio-website/main/public/github-snake.svg" alt="snake"/>
   </p>
 </div>
